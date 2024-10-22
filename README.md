@@ -50,4 +50,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus we have read and cleaned the data and also removed the outliers by detection using IQR and Z score method
